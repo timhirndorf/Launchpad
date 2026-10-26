@@ -1,6 +1,6 @@
 # Launchpad
 
-A personal market overview inspired by the Bloomberg Launchpad: a single dark, dense page with the numbers I check every day.
+A personal market overview inspired by the Bloomberg Launchpad: with the numbers I check every day.
 
 ## Panels
 
